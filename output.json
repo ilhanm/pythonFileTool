@@ -1,0 +1,97 @@
+{
+    "0": {
+        "name": "Iphone12",
+        "price": "1000",
+        "quantity": "18"
+    },
+    "1": {
+        "name": "Iphone 13 Pro",
+        "price": "1750",
+        "quantity": "13"
+    },
+    "2": {
+        "name": "Iphone11",
+        "price": "800",
+        "quantity": "21"
+    },
+    "3": {
+        "name": "Hp Laptop",
+        "price": "950",
+        "quantity": "24"
+    },
+    "4": {
+        "name": "Ipad 8",
+        "price": "450",
+        "quantity": "33"
+    },
+    "5": {
+        "name": "Corsair Keyboard",
+        "price": "90",
+        "quantity": "55"
+    },
+    "6": {
+        "name": "Steelseries Mouse",
+        "price": "60",
+        "quantity": "34"
+    },
+    "7": {
+        "name": "Blue Yeti",
+        "price": "120",
+        "quantity": "50"
+    },
+    "8": {
+        "name": "Macbook Pro",
+        "price": "42",
+        "quantity": "12"
+    },
+    "9": {
+        "name": "tripod",
+        "price": "50",
+        "quantity": "75"
+    },
+    "10": {
+        "name": "monitor",
+        "price": "75",
+        "quantity": "40"
+    },
+    "11": {
+        "name": "termos",
+        "price": "12",
+        "quantity": "150"
+    },
+    "12": {
+        "name": "saat",
+        "price": "50",
+        "quantity": "500"
+    },
+    "13": {
+        "name": "mousepad",
+        "price": "30",
+        "quantity": "56"
+    },
+    "14": {
+        "name": "televizyon",
+        "price": "600",
+        "quantity": "20"
+    },
+    "15": {
+        "name": "printer",
+        "price": " 350",
+        "quantity": "15"
+    },
+    "16": {
+        "name": "mikrofon",
+        "price": "12",
+        "quantity": "23"
+    },
+    "17": {
+        "name": "Puzzle",
+        "price": "15",
+        "quantity": "250"
+    },
+    "18": {
+        "name": "Ipad 9",
+        "price": "440",
+        "quantity": "25"
+    }
+}

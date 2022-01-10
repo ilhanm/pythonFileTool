@@ -1,0 +1,37 @@
+   [
+   {
+      "name": "utu masasi",
+      "price": 10,
+      "quantity": 75
+    },
+    {
+      "name": "sarj aleti",
+      "price": 15,
+      "quantity": 40
+    },
+    {
+      "name": "grafik tablet",
+      "price": 17,
+      "quantity": 150
+    },
+    {
+      "name": "rubik kup",
+      "price": 20,
+      "quantity": 500
+    },
+    {
+      "name": "gomlek",
+      "price": 25,
+      "quantity": 56
+    },
+    {
+      "name": "uzay mekigi",
+      "price": 600,
+      "quantity": 20
+    },
+    {
+      "name": "sepet",
+      "price": 350,
+      "quantity": 15
+    }
+]
